@@ -4,6 +4,6 @@ public class New{
         System.out.println("Hello, World!"); 
         System.out.println("WELCOME!"); 
          System.out.println("This is another line"); 
-
+        System.out.println("This is one more  line- dummy sentence "); 
     }
 }
