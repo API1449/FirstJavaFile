@@ -11,6 +11,8 @@ public class New{
        System.out.println("Learning branching in git");
        System.out.println("will merge api branch with copy1 branch");
        System.out.println("Finally copy1 branch will be merged to master, the root branch");
+       System.out.println("Trying to learn merge conflict-1");
+	System.out.println("Trying to learn merge conflict-2");
         
 
     
