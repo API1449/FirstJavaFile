@@ -5,7 +5,8 @@ public class New{
         System.out.println("WELCOME!"); 
          System.out.println("This is another line"); 
         System.out.println("This is one more  line- dummy sentence "); 
-       System.out.println("This is a line to test bit bucket"); 
+       System.out.println("This is a line to test bit bucket");
+        System.out.println("copy1"); 
 
     
     }
