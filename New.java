@@ -13,6 +13,8 @@ public class New{
        System.out.println("Finally copy1 branch will be merged to master, the root branch");
        System.out.println("Trying to learn merge conflict-1");
 	System.out.println("Trying to learn merge conflict-2");
+	    System.out.println("Added lines via remote repository");
+	    System.out.println("added lines via remote repository-2");
         
 
     
